@@ -26,9 +26,6 @@ I am a student of [Belarusian State University](https://bsu.by/en/) on the [Facu
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/shvarsman)
 [![Mail](https://img.shields.io/badge/mail-black?style=for-the-badge&logo=icloud)](mailto:d@shvarsman.ru)
 
-## :octocat: GitHub Stats:
-![All commits](https://github-readme-streak-stats.herokuapp.com/?user=Shvarsman&theme=transparent)
-
 ## CV
 You can find my CV in this repository!
 
